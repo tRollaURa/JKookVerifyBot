@@ -1,0 +1,5 @@
+name: IRC
+version: 1.0
+description: "no"
+main: cn.trollaura.verifybot.Main
+api-version: 0.51.0
